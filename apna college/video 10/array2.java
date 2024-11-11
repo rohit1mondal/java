@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class array2 {
@@ -7,7 +8,11 @@ public class array2 {
         int numbers[] = new int[size];
 
         for (int i = 0; i < size; i++) {
+            numbers[i] = sc.nextInt();
+        }
+
+        for (int i = 0; i < size; i++) {
             System.out.println(numbers[i]);
         }
-    }    
+    }
 }
