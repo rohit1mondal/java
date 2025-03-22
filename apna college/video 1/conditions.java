@@ -1,6 +1,7 @@
+// video3
 import java.util.*;
 
-// public class conditions {
+// public class conditions03 {
 //     public static void main(String[] args) {
 //         Scanner sc = new Scanner(System.in);
 //         int age = sc.nextInt();
