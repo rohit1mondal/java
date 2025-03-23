@@ -41,6 +41,5 @@ public class stringBuilder {
             sb.setCharAt(back, frontChar);
         }
         System.out.println(sb);
-
     }
 }
