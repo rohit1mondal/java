@@ -1,6 +1,8 @@
+//video 6
+
 import java.util.*;
 
-public class patterns1 {
+public class patterns4 {
     public static void main(String[] args) {
         // int n = 5;
 
@@ -83,3 +85,6 @@ public class patterns1 {
         }
     }
 }
+ 
+    
+
